@@ -6,20 +6,20 @@
    <rect>
     <x>0</x>
     <y>0</y>
-    <width>643</width>
-    <height>718</height>
+    <width>650</width>
+    <height>700</height>
    </rect>
   </property>
   <property name="windowTitle">
    <string>Form</string>
   </property>
-  <widget class="QPushButton" name="pushButton">
+  <widget class="QPushButton" name="btn">
    <property name="geometry">
     <rect>
      <x>180</x>
      <y>30</y>
      <width>271</width>
-     <height>41</height>
+     <height>51</height>
     </rect>
    </property>
    <property name="font">
@@ -28,7 +28,7 @@
     </font>
    </property>
    <property name="text">
-    <string>Добавить жёлтый кружочек 😁</string>
+    <string>Новый жёлтый кружочек 😁</string>
    </property>
   </widget>
  </widget>
